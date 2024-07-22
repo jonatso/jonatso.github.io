@@ -14,28 +14,14 @@
       <link>https://jonatansolheim.no/music/ut-i-rommet/</link>
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://jonatansolheim.no/music/ut-i-rommet/</guid>
-      <description>This is a remix of a track made by the Norwegian duo ka2. I really love their club music, and I&amp;rsquo;m quite impressed by how successful they&amp;rsquo;ve been with seemingly niche house music, with norwegian lyrics. I wanted to make a remix that was a bit more energetic, inspired by psy trance basslines. I shared it with ka2 and it seemed like they liked it, which was really cool.</description>
+      <description>This is a remix of a track made by the Norwegian duo ka2. I really love their club music, and I&amp;rsquo;m quite impressed by how successful they&amp;rsquo;ve been with seemingly niche house music, with norwegian lyrics. I wanted to make a remix that was a bit more energetic, inspired by psy trance basslines. I shared it with ka2 and it seemed like they liked it, which was really cool! 🤙</description>
     </item>
     <item>
       <title>KUČKA — No Good For Me (Jonatan Solheim Flip)</title>
       <link>https://jonatansolheim.no/music/no-good-for-me/</link>
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://jonatansolheim.no/music/no-good-for-me/</guid>
-      <description>Made this for Kucka&amp;rsquo;s remix competition. I didn&amp;rsquo;t win, but I had a lot of fun making it. I think it&amp;rsquo;s a good track, and I&amp;rsquo;m proud of it. I hope you enjoy it too!</description>
-    </item>
-    <item>
-      <title>Rich Content</title>
-      <link>https://jonatansolheim.no/post/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jonatansolheim.no/post/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;&#xA;&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;</description>
-    </item>
-    <item>
-      <title>Math Typesetting</title>
-      <link>https://jonatansolheim.no/post/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jonatansolheim.no/post/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+      <description>KUČKA had a remix competition for her track &amp;ldquo;No Good For Me&amp;rdquo;, and I decided to remix it even though I first heard the song after the deadline. At the time I was heavily inspired by more laidback house music, and also by the track &amp;ldquo;One night in Bangkok&amp;rdquo; from the musical Chess. The chorus of &amp;ldquo;One night in Bangkok&amp;rdquo; has an interesting effect where the reverb of some of the instruments disappears on parts of the chorus, which I also incorporated in this remix.</description>
     </item>
     <item>
       <title>Emoji Support</title>
@@ -45,11 +31,11 @@
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>About</title>
-      <link>https://jonatansolheim.no/about/</link>
+      <title>Cubing</title>
+      <link>https://jonatansolheim.no/cubing/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://jonatansolheim.no/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&#xA;Hugo makes use of a variety of open source projects including:&#xA;https://github.com/yuin/goldmark https://github.</description>
+      <guid>https://jonatansolheim.no/cubing/</guid>
+      <description>In 2010, my brother received a Rubik&amp;rsquo;s cube as a Christmas gift. A year later, we successfully solved it together. Since then, I have been committed to improving my speed and actively participating in the speedcubing community in Norway. I have competed in over 45 competitions, and have organized a few. You can view my WCA profile here. I was ranked in the top 10 in Norway from 2013 to 2023, but have recently been surpassed by the new generation of cubers.</description>
     </item>
   </channel>
 </rss>
