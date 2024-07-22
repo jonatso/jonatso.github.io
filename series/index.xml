@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Jonatan Solheim</title>
-    <link>https://jonatso.github.io/series/</link>
+    <link>https://jonatansolheim.no/series/</link>
     <description>Recent content in Series on Jonatan Solheim</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved.</copyright>
-    <atom:link href="https://jonatso.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jonatansolheim.no/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
